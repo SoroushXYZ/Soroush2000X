@@ -1,4 +1,4 @@
-Hello there! I'm Soroush, a highschool student in Iran.
+Hello there! I'm Soroush, a university student in Iran.
 
 -I'm interested in ML and Blockchain technology.
 -I'm currenty learning NodeJS & Solidity.
